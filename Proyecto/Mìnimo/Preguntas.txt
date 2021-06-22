@@ -1,0 +1,6 @@
+Karla Ortiz Chávez 
+Algunas dudas que tengo son: 
+¿Como usar int_declarator_list? Sirve para listas, supongo yo, pero como se usaría?
+¿int_declarator es para inicializar una variable? 
+¿Como usar pointer? 
+¿initializer e int_declarator son lo mismo? que no creo, ya que inizializer usa listas, pero no entiendo como se usaría 
